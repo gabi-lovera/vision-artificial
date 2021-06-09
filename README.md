@@ -1,6 +1,4 @@
 # vision-artificial
-Trabajos prácticos
-
 # Trabajos Prácticos: Visión Artificial
 
 ## UTN Facultad Regional San Francisco
