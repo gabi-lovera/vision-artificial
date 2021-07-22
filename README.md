@@ -1,9 +1,9 @@
-# vision-artificial
+# Vision por computadora
  Trabajos Prácticos: Visión Artificial
 
 ## UTN Facultad Regional San Francisco
 #### Alumnos: 
-- Gaston Borselli. 
-- Gabriel Lovera.
+- `Gaston Borselli.` 
+- `Gabriel Lovera.`
 #### Carrera: 
 Ingeniería en Sistemas de Información. 
